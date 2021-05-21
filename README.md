@@ -65,5 +65,6 @@ See the full analysis in the [Jupyter Notebook](./LR Model - Test 9.ipynb) or re
 ├── kc_house_data.csv
 ├── df_processed.pickle
 ├── LR Model - Test 9.ipynb
+├── Data Cleaning.ipynb
 └── KING COUNTY HOUSE SALES - LINEAR REGRESSION MODEL.pdf
 ```
