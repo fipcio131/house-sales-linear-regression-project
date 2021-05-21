@@ -5,7 +5,7 @@
 
 ## Overview
 
-The project analyzes the house prices in the King County, Washington for a real estate agency. Based on the analysis results, the house prices depend on many factors but there are a few the most significat that have the biggest impact on th eprice, i.e house square footage, location from Seatlle and Bellevue as well as the zipcode where the given house is located. Also the waterfront properties can cost as much as over 100% more then the other properties. The RE agency could easily estimate the house price by providing some basic information about the property like the address and square footage, number of bedrooms, etc.
+The project analyzes the house prices in the King County, Washington for a real estate agency. Based on the analysis results, the house prices depend on many factors but there are a few the most significat that have the biggest impact on th eprice, i.e house square footage, location from Seattle and Bellevue as well as the zipcode where the given house is located. Also the waterfront properties can cost as much as over 100% more then the other properties. The RE agency could easily estimate the house price by providing some basic information about the property like the address and square footage, number of bedrooms, etc.
 
 ## Business Problem
 
